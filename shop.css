@@ -1,0 +1,26 @@
+/* shop.css */
+.shop-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.product-item {
+    width: 200px;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: center;
+}
+
+.product-item img {
+    width: 100%;
+    height: auto;
+}
+
+/* Rest of your CSS */
